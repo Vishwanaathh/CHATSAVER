@@ -1,9 +1,9 @@
 {
   "name": "chatattempt",
   "version": "1.0.0",
-  "main": "model.js",
+  "main": "user.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node user.js"
   },
   "keywords": [],
   "author": "",
